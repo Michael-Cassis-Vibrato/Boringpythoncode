@@ -2,6 +2,7 @@ import time
 import random
 import datetime
 import sys
+#update to test git
 
 def endmode():
     print()
