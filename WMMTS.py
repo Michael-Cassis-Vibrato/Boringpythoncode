@@ -2,7 +2,7 @@ import time
 import random
 import datetime
 import sys
-#update to test git p2
+#update to test git p1
 
 def endmode():
     print()
