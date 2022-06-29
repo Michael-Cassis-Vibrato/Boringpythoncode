@@ -1,0 +1,12 @@
+#!/bin/bash
+echo hello world
+echo making testfolder
+mkdir testfolder
+cd testfolder
+echo making deletefolder
+mkdir todelete
+echo deleting deletefolder
+rm -r todelete
+echo returning to main
+cd ..
+echo completed
