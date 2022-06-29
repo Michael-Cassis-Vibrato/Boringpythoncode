@@ -1,0 +1,1 @@
+wget -O - https://github.com/Michael-Cassis-Vibrato/Boringpythoncode/blob/98b2189980305bfc4cd1487d893b5173bbb6e5e5/FirstScript.txt
